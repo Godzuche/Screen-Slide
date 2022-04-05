@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/transform_zoom_out"
+        android:title="Zoom out transformer" />
+
+    <item
+        android:id="@+id/transform_depth"
+        android:title="Depth transformer" />
+
+</menu>
